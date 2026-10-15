@@ -17,9 +17,15 @@
 - **AI:** Gemini AI integration
 
 ## Featured Projects
-- **Backup of Data for Disaster Management** — Automated AWS backups using Python and Boto3.
-- **Lead Management System** — A web application for organizing and managing customer leads.
-- **Pratinidi AI** — An AI-powered college announcements platform with summarization and eligibility extraction.
+
+- [Backup of Data for Disaster Management](https://github.com/bhanusrinija04/Backup-using-snapshot--AWS.git)
+  - Automated AWS backups using Python and Boto3.
+
+- [Lead Management System](https://github.com/bhanusrinija04/Lead-Management-System.git)
+  - A web application for organizing and managing customer leads.
+
+- [Pratinidi AI](https://github.com/bhanusrinija04/Pratinidi-AI.git)
+  - An AI-powered college announcements platform with summarization and eligibility extraction.
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/bhanu-srinija-kalakoti-4b36b4295/
